@@ -1,0 +1,2 @@
+cd pretrained_models
+./download.py
